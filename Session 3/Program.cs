@@ -180,6 +180,7 @@ namespace Session_3
             //s.Append("Hi");
             //s.Append(" Essam");
             //s.AppendLine(" Brunoo F8");
+            //
             //s.AppendFormat("{ 0} + {1} = {2} ,5,6,8"); ????? مش فاهم؟
             //s.AppendJoin(";", "Essam", "alaa");
             //s.Insert(2,"essam");
